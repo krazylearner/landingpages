@@ -26,7 +26,7 @@ function newPopup(url) {
 </script>
 </head>
 <body>
-<a href="JavaScript:newPopup('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458');"><img id="feedback" src ="css/images/live_chat2.png" /></a>
+<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank"><img id="feedback" src ="css/images/live_chat2.png" /></a>
 	<!-- wrapper -->
 	<div class="wrapper">
 		<!-- header -->
@@ -53,7 +53,7 @@ function newPopup(url) {
 							<h5>Best Support For AVG </h5>
 							<h3>Need Support For AVG ?</h3>
 							
-							<a href="JavaScript:newPopup('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458');"class="green-btn">LIVE CHAT</a>
+							<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank"class="green-btn">LIVE CHAT</a>
 
 							
 							<img class="img-mid" src="css/images/c.png" alt="dot2" width="430" height="363" />
@@ -92,7 +92,7 @@ function newPopup(url) {
 					<div class="col">
 						
 						
-							<a href="JavaScript:newPopup('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458');" class="green-btn" ><img src="css/images/chat.png" alt="" style="width:350px;" /></a>
+							<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" class="green-btn" ><img src="css/images/chat.png" alt="" style="width:350px;" /></a>
 					
 					</div>
 					<div class="col">
@@ -144,7 +144,7 @@ function newPopup(url) {
 							 avgtech.tk is a leading online tech-support company which delivers short term as well long term computer support and assistance. We provides technical support services for all types of issues related to antivirus updates,antivirus installation,antivirus virus definations,virus removal,AVG errors ,AVG general issues ,AVG virus defination updates,AVG renewal problems etc . 
 We will fix any issue with your computer at your desired time, making sure all your data is safe and secure, you do not need to go anywhere, we will diagnose the issue and fix your computer on secured network saving you time and money.
 						</p>
-						<a href="JavaScript:newPopup('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458');" /></a>	
+						<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" /></a>	
 						
 					</div>
 					<div class="cl">&nbsp;</div>
@@ -185,7 +185,7 @@ We will fix any issue with your computer at your desired time, making sure all y
                 <!-- /FEATURES -->
                 <!-- PT-FOOTER -->
                 <div class="pt-footer">
-                    <a href="JavaScript:newPopup('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458');" style="color:white" >GET STARTED</a>
+                    <a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" style="color:white" >GET STARTED</a>
                 </div>
                 <!-- /PT-FOOTER -->
             </div>
@@ -214,7 +214,7 @@ We will fix any issue with your computer at your desired time, making sure all y
                 <!-- /FEATURES -->
                 <!-- PT-FOOTER -->
                 <div class="pt-footer">
-                    <a href="JavaScript:newPopup('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458');" style="color:white" >GET STARTED</a>
+                    <a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" style="color:white" >GET STARTED</a>
                 </div>
                 <!-- /PT-FOOTER -->
             </div>
@@ -245,7 +245,7 @@ We will fix any issue with your computer at your desired time, making sure all y
 
                 <!-- PT-FOOTER -->
                 <div class="pt-footer">
-                    <a href="JavaScript:newPopup('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458');" style="color:white">GET STARTED</a>
+                    <a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" style="color:white">GET STARTED</a>
                 </div>
                 <!-- /PT-FOOTER -->
             </div>

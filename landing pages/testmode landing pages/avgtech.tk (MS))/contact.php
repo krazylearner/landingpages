@@ -22,7 +22,7 @@ function newPopup(url) {
 </script>
 </head>
 <body>
-<a href="JavaScript:newPopup('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458');" ><img id="feedback" src ="css/images/live_chat2.png" /></a>
+<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" ><img id="feedback" src ="css/images/live_chat2.png" /></a>
 	<!-- wrapper -->
 	<div class="wrapper">
 		<!-- header -->
@@ -49,7 +49,7 @@ function newPopup(url) {
 							<h5>Best Support For AVG </h5>
 							<h3>Need Support For AVG ?</h3>
 							
-							<a href="JavaScript:newPopup('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458');"class="green-btn" >LIVE CHAT</a>
+							<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank"class="green-btn" >LIVE CHAT</a>
 
 							
 							<img class="img-mid" src="css/images/c.png" alt="dot2" width="430" height="363" />
