@@ -39,6 +39,7 @@ function newPopup(url) {
 						<ul>
 							<li class="active home"><a href="index.php">Home</a></li>
 							<li><a href="privacy-policy.php">Privacy Policy</a></li>
+							<li><a href="plans.php">Plans</a></li>
 							<li><a href="refund-policy.php">Refund Policy </a></li>
 							<li><a href="disclaimer.php">Disclaimer</a></li>
 							<li><a href="contact.php">Contact Us</a></li>
