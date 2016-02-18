@@ -9,10 +9,6 @@
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 	<link href="css/style1.css" rel='stylesheet' type='text/css' />
 	
-
-	<!--[if lt IE 9]>
-		<script src="js/modernizr.custom.js"></script>
-	<![endif]-->
 	
 	<style type="text/css">
 		
@@ -105,50 +101,108 @@ function newPopup(url) {
 
 				</section>
 
-				<section class="cols">
+				
+				
+				
 
-					<div class="col">
-						<img src="css/images/col-img1-b.png" alt="" />
-						<div class="col-cnt">
-							<h2>TROUBLESHOOT</h2>
-							<p> Issues related ,AVG errors ,AVG general issues ,AVG virus defination updates,AVG renewal problems</p>
-							
-						</div>
-					</div>
-					<div class="col">
-						<img src="css/images/col-img2-b.png" alt="" />
-						<div class="col-cnt">
-							<h2>SECURITY</h2>
-							<p>We diagnose and fix various security loop holes and optimize and clean your pc back to normal. </p>
-							
-						</div>
-					</div>
-					<div class="col">
-						<img src="css/images/col-img3-b.png" alt="" />
-						<div class="col-cnt">
-							<h2>NO FIX NO PAY</h2>
-							<p>We only charge for fixing issues .There is no charge for consultation and diagnoses.</p>
-							
-						</div>
-					</div>
-					<div class="cl">&nbsp;</div>
+				
 
-				</section>
-				<!-- end of cols -->
-				<section class="post">
-					<img src="css/images/Outlook.png" alt="" />
-					<div class="post-cnt">
-						<h2>Best Support For Antivirus</h2>
-						<p>
-							<strong>Need Support For AVG ?</strong><br />
-							 avgtech.tk is a leading online tech-support company which delivers short term as well long term computer support and assistance. We provides technical support services for all types of issues related to antivirus updates,antivirus installation,antivirus virus definations,virus removal,AVG errors ,AVG general issues ,AVG virus defination updates,AVG renewal problems etc . 
-We will fix any issue with your computer at your desired time, making sure all your data is safe and secure, you do not need to go anywhere, we will diagnose the issue and fix your computer on secured network saving you time and money.
-						</p>
-						<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" /></a>	
-						
-					</div>
-					<div class="cl">&nbsp;</div>
-				</section>
+				
+				<div class="wrapper">
+        <!-- PRICING-TABLE CONTAINER -->
+        <div class="pricing-table group">
+            <h1 class="heading">
+                PLANS AND PRICING
+            </h1>
+            <!-- PERSONAL -->
+            <div class="block personal fl">
+                <h2 class="title">personal</h2>
+                <!-- CONTENT -->
+                <div class="content">
+                    <p class="price">
+                        <sup>$</sup>
+                        <span>99</span>
+                        <sub>/mo.</sub>
+                    </p>
+                    <p class="hint">Perfect for freelancers</p>
+                </div>
+                <!-- /CONTENT -->
+                <!-- FEATURES -->
+                <ul class="features">
+                    <li><span class="fontawesome-cog"></span>VALID FOR 1 MONTH</li>
+                    <li><span class="fontawesome-star"></span>Free Diagnosis</li>
+                    <li><span class="fontawesome-dashboard"></span>One Time Fix</li>
+                    <li><span class="fontawesome-dashboard"></span>Tune Up And Optimization</li>
+                    <li><span class="fontawesome-cloud"></span>SINGLE COMPUTER</li>
+                </ul>
+                <!-- /FEATURES -->
+                <!-- PT-FOOTER -->
+                <div class="pt-footer">
+                    <a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" style="color:white" >GET STARTED</a>
+                </div>
+                <!-- /PT-FOOTER -->
+            </div>
+            <!-- /PERSONAL -->
+            <!-- PROFESSIONAL -->
+            <div class="block professional fl">
+                <h2 class="title">Professional</h2>
+                <!-- CONTENT -->
+                <div class="content">
+                    <p class="price">
+                        <sup>$</sup>
+                        <span>149</span>
+                        <sub>/mo.</sub>
+                    </p>
+                    <p class="hint">Suitable for startups</p>
+                </div>
+                <!-- /CONTENT -->
+                <!-- FEATURES -->
+                <ul class="features">
+                    <li><span class="fontawesome-cog"></span>VALID FOR 3 MONTH</li>
+                    <li><span class="fontawesome-star"></span>Free Diagnosis</li>
+                    <li><span class="fontawesome-dashboard"></span>Unlimited Fix</li>
+                    <li><span class="fontawesome-dashboard"></span>Tune Up And Optimization</li>
+                    <li><span class="fontawesome-cloud"></span>SINGLE COMPUTER</li>
+                </ul>
+                <!-- /FEATURES -->
+                <!-- PT-FOOTER -->
+                <div class="pt-footer">
+                    <a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" style="color:white" >GET STARTED</a>
+                </div>
+                <!-- /PT-FOOTER -->
+            </div>
+            <!-- /PROFESSIONAL -->
+            <!-- BUSINESS -->
+            <div class="block business fl">
+                <h2 class="title">Business</h2>
+                <!-- CONTENT -->
+                <div class="content">
+                    <p class="price">
+                        <sup>$</sup>
+                        <span>199</span>
+                        <sub>/mo.</sub>
+                    </p>
+                    <p class="hint">For established business</p>
+                </div>
+                <!-- /CONTENT -->
+
+                <!-- FEATURES -->
+                <ul class="features">
+                    <li><span class="fontawesome-cog"></span>VALID FOR 6 MONTH</li>
+                    <li><span class="fontawesome-star"></span>Free Diagnosis</li>
+                    <li><span class="fontawesome-dashboard"></span>Unlimited Fix</li>
+                    <li><span class="fontawesome-dashboard"></span>Tune Up And Optimization</li>
+                    <li><span class="fontawesome-cloud"></span>Multiple Computers</li>
+                </ul>
+                <!-- /FEATURES -->
+
+                <!-- PT-FOOTER -->
+                <div class="pt-footer">
+                    <a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" style="color:white">GET STARTED</a>
+                </div>
+                <!-- /PT-FOOTER -->
+            </div>
+            <!-- /BUSINESS -->
         </div>
         <!-- /PRICING-TABLE -->
     </div>
