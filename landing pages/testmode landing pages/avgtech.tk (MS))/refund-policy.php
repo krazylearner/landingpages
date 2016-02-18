@@ -43,27 +43,7 @@ function newPopup(url) {
 					</nav>
 					<div class="cl">&nbsp;</div>
 				</div>
-				<div class="slider">
-					<div id="bg"></div>
-					<div id="carousel">
-						<div>
-							<h5>Best Support For AVG </h5>
-							<h3>Need Support For AVG ?</h3>
-							
-							<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank"class="green-btn" onclick="goog_report_conversion ('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458')">LIVE CHAT</a>
-
-							
-							<img class="img-mid" src="css/images/c.png" alt="dot2" width="430" height="363" />
-							
-						</div>
-
-						
-
-					</div>
-					<div class="pagination"></div>
-					<a id="prev" href="#"></a>
-					<a id="next" href="#"></a>
-				</div>
+				
 			</div>
 		</header>
 		<!-- end of header -->
