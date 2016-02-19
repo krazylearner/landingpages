@@ -29,7 +29,7 @@ function newPopup(url) {
 		<header class="header">
 			<div class="shell">
 				<div class="header-top">
-					<h1 id="logo"><a href="#">avgtech.tk</a></h1>
+					<h1 id="logo"><a href="#">quickbooksgeek.tk</a></h1>
 					<nav id="navigation">
 						<a href="#" class="nav-btn">Home<span></span></a>
 						<ul>
@@ -53,7 +53,7 @@ function newPopup(url) {
 
 			<!-- main -->
 			<div class="main">
-				<div><p><b>Disclaimer: </b>avgtech.tk is an independent third party service provider for several products and brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</p></div>
+				<div><p><b>Disclaimer: </b>quickbooksgeek.tk is an independent third party service provider for several products and brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</p></div>
 				<!-- cols -->
 				<section class="cols">
 
@@ -225,7 +225,7 @@ function newPopup(url) {
 					<div class="col">
 						<h2>CONTACT us</h2>
 
-						<p>Email: <a href="#">support@avgtech.tk</a></p>
+						<p>Email: <a href="#">support@quickbooksgeek.tk</a></p>
 						<p>Phone: 1-480-616-7013</p>
 						<p>Address: 5643 W Bonanza Ln
 </p>

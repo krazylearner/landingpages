@@ -4,11 +4,15 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
-	<title>Support For AVG</title>
+	<title>Support For Quickbooks</title>
 	<link rel="shortcut icon" type="image/x-icon" href="css/images/favicon.ico" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 	<link href="css/style1.css" rel='stylesheet' type='text/css' />
 	
+
+	<!--[if lt IE 9]>
+		<script src="js/modernizr.custom.js"></script>
+	<![endif]-->
 	
 	<style type="text/css">
 		
@@ -29,7 +33,7 @@ function newPopup(url) {
 		<header class="header">
 			<div class="shell">
 				<div class="header-top">
-					<h1 id="logo"><a href="#">avgtech.tk</a></h1>
+					<h1 id="logo"><a href="#">quickbooksgeek.tk</a></h1>
 					<nav id="navigation">
 						<a href="#" class="nav-btn">Home<span></span></a>
 						<ul>
@@ -47,13 +51,13 @@ function newPopup(url) {
 					<div id="bg"></div>
 					<div id="carousel">
 						<div>
-							<h5>Best Support For AVG </h5>
-							<h3>Need Support For AVG ?</h3>
+							<h5>Best Support For Quickbooks </h5>
+							<h3>Need Support For Quickbooks ?</h3>
 							
 							<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank"class="green-btn">LIVE CHAT</a>
 
 							
-							<img class="img-mid" src="css/images/c.png" alt="dot2" width="430" height="363" />
+							<img class="img-mid" src="css/images/qbo.jpg" alt="dot2" width="430" height="363" />
 							
 						</div>
 
@@ -76,7 +80,7 @@ function newPopup(url) {
 
 			<!-- main -->
 			<div class="main">
-				<div><p><b>Disclaimer: </b>avgtech.tk is an independent third party service provider for several products and brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</p></div>
+				<div><p><b>Disclaimer: </b>quickbooksgeek.tk is an independent third party service provider for several products and brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</p></div>
 				<!-- cols -->
 				<section class="cols">
 
@@ -108,7 +112,7 @@ function newPopup(url) {
 						<img src="css/images/col-img1-b.png" alt="" />
 						<div class="col-cnt">
 							<h2>TROUBLESHOOT</h2>
-							<p> Issues related ,AVG errors ,AVG general issues ,AVG virus defination updates,AVG renewal problems</p>
+							<p> Issues related ,Quickbooks errors ,Quickbooks general issues ,Quickbooks defination updates,Quickbooks working problems</p>
 							
 						</div>
 					</div>
@@ -133,20 +137,23 @@ function newPopup(url) {
 				</section>
 				<!-- end of cols -->
 				<section class="post">
-					<img src="css/images/Outlook.png" alt="" />
+					<img src="css/images/qbo.jpg" alt="" />
 					<div class="post-cnt">
-						<h2>Best Support For Antivirus</h2>
+						<h2>Best Support For Quickbooks</h2>
 						<p>
-							<strong>Need Support For AVG ?</strong><br />
-							 avgtech.tk is a leading online tech-support company which delivers short term as well long term computer support and assistance. We provides technical support services for all types of issues related to antivirus updates,antivirus installation,antivirus virus definations,virus removal,AVG errors ,AVG general issues ,AVG virus defination updates,AVG renewal problems etc . 
-We will fix any issue with your computer at your desired time, making sure all your data is safe and secure, you do not need to go anywhere, we will diagnose the issue and fix your computer on secured network saving you time and money.
+							<strong>Need Support For Quickbooks ?</strong><br />
+							 Find 24×7 fast premium help simply by qualified and trained experts to help you download quickbooks, set up and create company data files in both windows & apple mac pc.
+
+QuickBooks makes it simple and rapid that you can accomplish your complete financial information jobs with couple of methods in time. Qualified Experts will help you with quickbooks to function the method that you carry out as well as assistance to up-date or store your company files to some cloud hosting. You will also get conversion help just in case if you are looking to convert quickbooks file to windows or mac.
 						</p>
 						<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" /></a>	
 						
 					</div>
 					<div class="cl">&nbsp;</div>
 				</section>
-
+        </div>
+        <!-- /PRICING-TABLE -->
+    </div>
 
 					
 			
@@ -161,34 +168,35 @@ We will fix any issue with your computer at your desired time, making sure all y
 				<!-- footer-cols -->
 				<div class="footer-cols">
 					<div class="col">
-						<h2>Support For AVG </h2>
+						<h2>Support For Quickbooks </h2>
 						<ul>
-							<li><a href="#">avg technical help</a></li>
-							<li><a href="#">avg install and set up</a></li>
-							<li><a href="#">avg renewal problems</a></li>
-							<li><a href="#">avg trojan support</a></li>
-							<li><a href="#">avg virus defination updates</a></li>
-							<li><a href="#">avg malware removal</a></li>
+							<li><a href="#">Quickbooks technical help</a></li>
+							<li><a href="#">Quickbooks install and set up</a></li>
+							<li><a href="#">Quickbooks Backup</a></li>
+							<li><a href="#">Quickbooks Print</a></li>
+							<li><a href="#">Quickbooks enterprise freezing</a></li>
+							<li><a href="#">Quickbooks General Errors</a></li>
 						</ul>
 					</div>
 
 					
 
 					<div class="col">
-						<h2>BLOG</h2>
+						<h2>Support and Help For QuickBooks</h2>
 						<ul>
-							<li><a href="https://support.avg.com/SupportArticleView?l=en_US&urlName=What-to-do-when-AVG-installation-is-failing"> AVG installation is failing</a></li>
-							<li><a href="https://support.avg.com/SupportArticleView?l=en_US&urlName=General-Error-when-updating-AVG">General Error when updating AVG </a></li>
-							<li><a href="https://support.avg.com/answers?id=906b00000008nCTAAY">Installing AVG Windows ZEN Error code: 0xC0070643 </a></li>
-							<li><a href="https://support.avg.com/SupportArticleView?l=en_US&urlname=Message-Installing-3rd-party-redistributables-failed-when-installing-AVG">Installing 3rd party redistributables failed</a></li>
-							<li><a href="https://support.avg.com/search?l=en_US&retUrl=SupportArticleView&searchText=Message+Verify+that+you+have+sufficient+privileges+when+installing+AV&supportType=home">Insufficient privilages when installing AVG</a></li>
+							<li><a href="#">Error opening Quickbooks 2014</a></li>
+							<li><a href="#">Unable to re-install Quickbooks</a></li>
+							<li><a href="#">Quickbooks cannot print</a></li>
+							<li><a href="#">Quickbooks cannot connect to bank</a></li>
+							<li><a href="#">Quickbooks cannot verify</a></li>
+							<li><a href="#">Quickbooks 2016 Upgrade</a></li>
 						</ul>
 					</div>
 
 					<div class="col">
 						<h2>CONTACT us</h2>
 
-						<p>Email: <a href="#">support@avgtech.tk</a></p>
+						<p>Email: <a href="#">support@quickbooksgeek.tk</a></p>
 						<p>Phone: 1-480-616-7013</p>
 						<p>Address: 5643 W Bonanza Ln
 </p>

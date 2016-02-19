@@ -58,7 +58,7 @@ function newPopup(url) {
 				<section class="content">
 					<h2>Privacy POlicy</h2>
 					<p>
-			This privacy policy discloses the practices for avgtech.tk to protect privacy for users of its Service.
+			This privacy policy discloses the practices for quickbooksgeek.tk to protect privacy for users of its Service.
 </p>
 <p>From herein, the "Service" is defined as the user support services owned and operated by avgtech. Submitting your information on our website constitutes acceptance of this privacy Policy.</p>
 <p><b>1) INFORMATION COLLECTION AND USE:</b> avgtech is the sole owner of the information collected through the web site/phone/e-mail. We will not sell or rent this information to others in ways different from what is disclosed in this policy. avgtech collects information from the users at several different points through our toolbar.</p>
@@ -87,11 +87,11 @@ function newPopup(url) {
 <p><b>a) Special Offers:</b> We send all new members a welcoming e-mail to verify password and logon name. Established members will occasionally receive information on products, services, special deals, and newsletters.</p>
 
 <p><b>b) Correction/Updating Personal Information:</b> If User personally identifiable information changes (such as user zip code), or if User no longer desire the Service, we will Endeavour to provide a way to correct, update or remove User personal data provided to us. This can be done at the Profile page</p>
-<p><b>c) Notification of Changes:</b> avgtech reserves the right to update this privacy Policy at any time by posting changes online without notice to you. The most current version of the privacy Policy can be reviewed by clicking on the "Privacy Policy" hypertext link located on our web site http://www.avgtech.tk. It is your responsibility to refer to this privacy Policy before submitting any information on the website. Submitting your information after such changes to the privacy Policy constitutes acceptance of those posted changes</p>
-<p><b>d) Opt-out Provision:</b> Customers may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at support@avgtech.tk</p>
+<p><b>c) Notification of Changes:</b> avgtech reserves the right to update this privacy Policy at any time by posting changes online without notice to you. The most current version of the privacy Policy can be reviewed by clicking on the "Privacy Policy" hypertext link located on our web site http://www.quickbooksgeek.tk. It is your responsibility to refer to this privacy Policy before submitting any information on the website. Submitting your information after such changes to the privacy Policy constitutes acceptance of those posted changes</p>
+<p><b>d) Opt-out Provision:</b> Customers may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at support@quickbooksgeek.tk</p>
 <p>e) If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify user via e-mail. We will use information in accordance with the privacy policy under which the information was collected.
 </p>
-<p>If user has any questions about the privacy Policy at our Web site, user can e-mail user inquiries to support@avgtech.tk</p>
+<p>If user has any questions about the privacy Policy at our Web site, user can e-mail user inquiries to support@quickbooksgeek.tk</p>
 
 
 					
@@ -138,7 +138,7 @@ function newPopup(url) {
 					<div class="col">
 						<h2>CONTACT us</h2>
 
-						<p>Email: <a href="#">support@avgtech.tk</a></p>
+						<p>Email: <a href="#">support@quickbooksgeek.tk</a></p>
 						<p>Phone: 1-480-616-7013</p>
 						<p>Address: 5643 W Bonanza Ln
 </p>

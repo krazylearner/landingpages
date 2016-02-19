@@ -100,7 +100,7 @@ function newPopup(url) {
 					<div class="col">
 						<h2>CONTACT us</h2>
 
-						<p>Email: <a href="#">support@avgtech.tk</a></p>
+						<p>Email: <a href="#">support@quickbooksgeek.tk</a></p>
 						<p>Phone: 1-480-616-7013</p>
 						<p>Address: 5643 W Bonanza Ln
 </p>

@@ -57,7 +57,7 @@ function newPopup(url) {
 
 				<section class="content">
 					<h2>Refund Policy</h2>
-					<p>In the event, that you decide your purchase was not the right decision, we want to make things right. Within 30 days of any purchase,avgtech.tk will refund the full price you paid upon request. Simply write an email to us at <a>support@avgtech.tk</a> or <a href="contact.php">use this link</a> and let us know you’d like a refund. No refunds are provided after more than 30 days following purchase.</p>
+					<p>In the event, that you decide your purchase was not the right decision, we want to make things right. Within 30 days of any purchase,quickbooksgeek.tk will refund the full price you paid upon request. Simply write an email to us at <a>support@quickbooksgeek.tk</a> or <a href="contact.php">use this link</a> and let us know you’d like a refund. No refunds are provided after more than 30 days following purchase.</p>
 				</section>
 
 				
@@ -100,7 +100,7 @@ function newPopup(url) {
 					<div class="col">
 						<h2>CONTACT us</h2>
 
-						<p>Email: <a href="#">support@avgtech.tk</a></p>
+						<p>Email: <a href="#">support@quickbooksgeek.tk</a></p>
 						<p>Phone: 1-480-616-7013</p>
 						<p>Address: 5643 W Bonanza Ln
 </p>
