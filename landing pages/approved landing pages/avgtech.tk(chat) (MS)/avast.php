@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
-	<title>Support For Kaspersky</title>
+	<title>Support For Avast</title>
 	<link rel="shortcut icon" type="image/x-icon" href="css/images/favicon.ico" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
 	<link href="css/style1.css" rel='stylesheet' type='text/css' />
@@ -47,21 +47,26 @@ function newPopup(url) {
 					<div id="bg"></div>
 					<div id="carousel">
 						<div>
-							<h5>Best Support For Kaspersky </h5>
-							<h3>Need Support For Kaspersky ?</h3>
+							<h5>Best Support For Avast </h5>
+							<h3>Need Support For Avast ?</h3>
 							
 							<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank"class="green-btn">LIVE CHAT</a>
 
 							
-							<img class="img-mid" src="css/images/k.png" alt="dot2" width="430" height="363" />
+							<img class="img-mid" src="css/images/a.png" alt="dot2" width="430" height="363" />
 							
-						</div>		
+						</div>
+
+						
+
+						
+
+						
 					</div>
 					<div class="pagination"></div>
 					<a id="prev" href="#"></a>
 					<a id="next" href="#"></a>
 				</div>
-				
 			</div>
 		</header>
 		<!-- end of header -->
@@ -103,7 +108,7 @@ function newPopup(url) {
 						<img src="css/images/col-img1-b.png" alt="" />
 						<div class="col-cnt">
 							<h2>TROUBLESHOOT</h2>
-							<p> Issues related ,Kaspersky errors ,Kaspersky general issues ,Kaspersky virus defination updates,Kaspersky renewal problems</p>
+							<p> Issues related ,Avast errors ,Avast general issues ,Avast virus defination updates,Avast renewal problems</p>
 							
 						</div>
 					</div>
@@ -128,12 +133,12 @@ function newPopup(url) {
 				</section>
 				<!-- end of cols -->
 				<section class="post">
-					<img src="css/images/k.png" alt="" />
+					<img src="css/images/a.png" alt="" />
 					<div class="post-cnt">
 						<h2>Best Support For Antivirus</h2>
 						<p>
-							<strong>Need Support For Kaspersky ?</strong><br />
-							 avgtech.tk is a leading online tech-support company which delivers short term as well long term computer support and assistance. We provides technical support services for all types of issues related to antivirus updates,antivirus installation,antivirus virus definations,virus removal,Kaspersky errors ,Kaspersky general issues ,Kaspersky virus defination updates,Kaspersky renewal problems etc . 
+							<strong>Need Support For Avast ?</strong><br />
+							 avgtech.tk is a leading online tech-support company which delivers short term as well long term computer support and assistance. We provides technical support services for all types of issues related to antivirus updates,antivirus installation,antivirus virus definations,virus removal,Avast errors ,Avast general issues ,Avast virus defination updates,Avast renewal problems etc . 
 We will fix any issue with your computer at your desired time, making sure all your data is safe and secure, you do not need to go anywhere, we will diagnose the issue and fix your computer on secured network saving you time and money.
 						</p>
 						<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" /></a>	
@@ -142,14 +147,6 @@ We will fix any issue with your computer at your desired time, making sure all y
 					<div class="cl">&nbsp;</div>
 				</section>
 
-				
-
-				
-
-				
-			
-        <!-- /PRICING-TABLE -->
-    </div>
 
 					
 			
@@ -164,14 +161,14 @@ We will fix any issue with your computer at your desired time, making sure all y
 				<!-- footer-cols -->
 				<div class="footer-cols">
 					<div class="col">
-						<h2>Support For Kaspersky </h2>
+						<h2>Support For Avast </h2>
 						<ul>
-							<li><a href="#">Kaspersky technical help</a></li>
-							<li><a href="#">Kaspersky install and set up</a></li>
-							<li><a href="#">Kaspersky renewal problems</a></li>
-							<li><a href="#">Kaspersky trojan support</a></li>
-							<li><a href="#">Kaspersky virus defination updates</a></li>
-							<li><a href="#">Kaspersky malware removal</a></li>
+							<li><a href="#">Avast technical help</a></li>
+							<li><a href="#">Avast install and set up</a></li>
+							<li><a href="#">Avast renewal problems</a></li>
+							<li><a href="#">Avast trojan support</a></li>
+							<li><a href="#">Avast virus defination updates</a></li>
+							<li><a href="#">Avast malware removal</a></li>
 						</ul>
 					</div>
 
@@ -180,11 +177,11 @@ We will fix any issue with your computer at your desired time, making sure all y
 					<div class="col">
 						<h2>BLOG</h2>
 						<ul>
-							<li><a href="https://support.kaspersky.com/12079"> Kaspersky Total Security 2016 installation error</a></li>
-							<li><a href="https://support.kaspersky.com/12003">How to install Kaspersky Total Security 2016</a></li>
-							<li><a href="https://support.kaspersky.com/kts2016/settings">Kaspersky Settings Configuration</a></li>
-							<li><a href="https://support.kaspersky.com/kts2016/windows10">Windows 10 support</a></li>
-							<li><a href="https://support.kaspersky.com/12364">Kaspersky Total Security 2016 under Windows 10 in the OOBE mode</a></li>
+							<li><a href="https://support.Avast.com/SupportArticleView?l=en_US&urlName=What-to-do-when-Avast-installation-is-failing"> Avast installation is failing</a></li>
+							<li><a href="https://support.Avast.com/SupportArticleView?l=en_US&urlName=General-Error-when-updating-Avast">General Error when updating Avast </a></li>
+							<li><a href="https://support.Avast.com/answers?id=906b00000008nCTAAY">Installing Avast Windows ZEN Error code: 0xC0070643 </a></li>
+							<li><a href="https://support.Avast.com/SupportArticleView?l=en_US&urlname=Message-Installing-3rd-party-redistributables-failed-when-installing-Avast">Installing 3rd party redistributables failed</a></li>
+							<li><a href="https://support.Avast.com/search?l=en_US&retUrl=SupportArticleView&searchText=Message+Verify+that+you+have+sufficient+privileges+when+installing+AV&supportType=home">Insufficient privilages when installing Avast</a></li>
 						</ul>
 					</div>
 
