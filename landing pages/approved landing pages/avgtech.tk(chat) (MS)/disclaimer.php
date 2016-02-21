@@ -20,9 +20,22 @@ function newPopup(url) {
     url,'popUpWindow','height=500,width=500,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
 }
 </script>
+<!--Start of tawk.to clickable text Script-->
+
+<script type="text/javascript">
+
+function toggleChat() {
+
+Tawk_API.toggle(); return false;
+
+}
+
+</script>
+
+<!--End of tawk.to clickable text Script-->
 </head>
 <body>
-<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" onclick="goog_report_conversion ('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458')"><img id="feedback" src ="css/images/live_chat2.png" /></a>
+<a href="#chat" onclick="toggleChat()"   onclick="goog_report_conversion ('https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458')"></a>
 	<!-- wrapper -->
 	<div class="wrapper">
 		<!-- header -->
@@ -149,7 +162,7 @@ function newPopup(url) {
 							<li><a href="terms.php">Terms And Conditions</a></li>
 						</ul>
 					</div>
-					<p class="copy">Copyright &copy; 2012<span>|</span>Design by: <a href="http://chocotemplates.com" target="_blank">www.ChocoTemplates.com</a></p>
+					<p class="copy">Copyright &copy; 2012<span>|</span>Design by: <a href="http://chocotemplates.com" >www.ChocoTemplates.com</a></p>
 					<div class="cl">&nbsp;</div>
 				</div>
 			</div>

@@ -20,9 +20,22 @@ function newPopup(url) {
     url,'popUpWindow','height=500,width=500,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
 }
 </script>
+<!--Start of tawk.to clickable text Script-->
+
+<script type="text/javascript">
+
+function toggleChat() {
+
+Tawk_API.toggle(); return false;
+
+}
+
+</script>
+
+<!--End of tawk.to clickable text Script-->
 </head>
 <body>
-<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank"><img id="feedback" src ="css/images/live_chat2.png" /></a>
+
 	<!-- wrapper -->
 	<div class="wrapper">
 		<!-- header -->
@@ -50,7 +63,7 @@ function newPopup(url) {
 							<h5>Best Support For Mcafee </h5>
 							<h3>Need Support For Mcafee ?</h3>
 							
-							<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank"class="green-btn">LIVE CHAT</a>
+							<a href="#chat" onclick="toggleChat()"class="green-btn">LIVE CHAT</a>
 
 							
 							<img class="img-mid" src="css/images/m.png" alt="dot2" width="430" height="363" />
@@ -89,7 +102,7 @@ function newPopup(url) {
 					<div class="col">
 						
 						
-							<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" class="green-btn" ><img src="css/images/chat.png" alt="" style="width:350px;" /></a>
+							<a href="#chat" onclick="toggleChat()"   class="green-btn" ><img src="css/images/chat.png" alt="" style="width:350px;" /></a>
 					
 					</div>
 					<div class="col">
@@ -141,7 +154,7 @@ function newPopup(url) {
 							 avgtech.tk is a leading online tech-support company which delivers short term as well long term computer support and assistance. We provides technical support services for all types of issues related to antivirus updates,antivirus installation,antivirus virus definations,virus removal,Mcafee errors ,Mcafee general issues ,Mcafee virus defination updates,Mcafee renewal problems etc . 
 We will fix any issue with your computer at your desired time, making sure all your data is safe and secure, you do not need to go anywhere, we will diagnose the issue and fix your computer on secured network saving you time and money.
 						</p>
-						<a href="https://tawk.to/f767cf69a69175bdc6d312cb1cc79c8f4b9cb510/popout/default/?$_tawk_popout=true&$_tawk_sk=56b3c85ef60b7a92846a7c2e&$_tawk_tk=636ee4a00e41dffdb8b590a2d00f5e37&v=458" target="_blank" /></a>	
+						<a href="#chat" onclick="toggleChat()"   /></a>	
 						
 					</div>
 					<div class="cl">&nbsp;</div>
@@ -206,7 +219,7 @@ We will fix any issue with your computer at your desired time, making sure all y
 							<li><a href="terms.php">Terms And Conditions</a></li>
 						</ul>
 					</div>
-					<p class="copy">Copyright &copy; 2012<span>|</span>Design by: <a href="http://chocotemplates.com" target="_blank">www.ChocoTemplates.com</a></p>
+					<p class="copy">Copyright &copy; 2012<span>|</span>Design by: <a href="http://chocotemplates.com" >www.ChocoTemplates.com</a></p>
 					<div class="cl">&nbsp;</div>
 				</div>
 			</div>
@@ -227,5 +240,18 @@ chosen link or button. -->
 <script>
 (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5128796"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
 <noscript><img src="//bat.bing.com/action/0?ti=5128796&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+ <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/56b3c3f84300ca1b56049d13/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
  </body>
 </html>
