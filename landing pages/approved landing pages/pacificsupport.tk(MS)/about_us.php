@@ -1,6 +1,6 @@
 <?php include 'recorder.php';?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
 <!-- Mirrored from Comptek Solution .com/about_us by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:42:42 GMT -->
 <head>

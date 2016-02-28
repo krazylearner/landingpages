@@ -1,6 +1,6 @@
 <?php include 'recorder.php';?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
 <!-- Mirrored from Comptek Solution .com/feedback by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:42:53 GMT -->
 <head>
