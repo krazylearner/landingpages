@@ -5,7 +5,8 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta name="description" content="Get online technical support and help for avira issues and errors by certified technicians." />
+<meta name="description" content="Live Tech Support, Chat Support & Customer Service for avira LiveSafe, avira Antivirus & avira Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="avira, avira LiveSafe, avira Antivirus Plus, avira Total Protection, avira Internet Security, avira Support, avira Help, avira Customer Service, avira Customer Support, avira LiveSafe Support, avira Antivirus Plus Support, avira Total Protection Support, avira Tech Support, avira Technical Support, avira Chat Support, avira Live Chat, avira Live Chat Support, avira Online Help, avira Online Support, avira Live Support, avira Live Help, Contact avira, Call avira, avira Helpline, avira Help Desk, avira Hotline, avira Number, avira Phone Number, avira Support Website">
 <title>Online Expert Support For Avira</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />

@@ -5,7 +5,8 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta name="description" content="Get online technical support and help for avg issues and errors by certified technicians." />
+<meta name="description" content="Live Tech Support, Chat Support & Customer Service for avg LiveSafe, avg Antivirus & avg Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="avg, avg LiveSafe, avg Antivirus Plus, avg Total Protection, avg Internet Security, avg Support, avg Help, avg Customer Service, avg Customer Support, avg LiveSafe Support, avg Antivirus Plus Support, avg Total Protection Support, avg Tech Support, avg Technical Support, avg Chat Support, avg Live Chat, avg Live Chat Support, avg Online Help, avg Online Support, avg Live Support, avg Live Help, Contact avg, Call avg, avg Helpline, avg Help Desk, avg Hotline, avg Number, avg Phone Number, avg Support Website">
 <title>Online Expert Support For AVG</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />

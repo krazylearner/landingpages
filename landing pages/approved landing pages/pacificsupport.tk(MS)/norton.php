@@ -5,7 +5,8 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta name="description" content="Get online technical support and help for norton issues and errors by certified technicians." />
+<meta name="description" content="Live Tech Support, Chat Support & Customer Service for norton LiveSafe, norton Antivirus & norton Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="norton, norton LiveSafe, norton Antivirus Plus, norton Total Protection, norton Internet Security, norton Support, norton Help, norton Customer Service, norton Customer Support, norton LiveSafe Support, norton Antivirus Plus Support, norton Total Protection Support, norton Tech Support, norton Technical Support, norton Chat Support, norton Live Chat, norton Live Chat Support, norton Online Help, norton Online Support, norton Live Support, norton Live Help, Contact norton, Call norton, norton Helpline, norton Help Desk, norton Hotline, norton Number, norton Phone Number, norton Support Website">
 <title>Online Expert Support For Norton</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />

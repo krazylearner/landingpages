@@ -5,8 +5,9 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta name="description" content="Get online technical support and help for trendmicro issues and errors by certified technicians." />
-<title>Online Expert Support For Trend Micro</title>
+ <meta name="description" content="Live Tech Support, Chat Support & Customer Service for trendmicro LiveSafe, trendmicro Antivirus & trendmicro Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="trendmicro, trendmicro LiveSafe, trendmicro Antivirus Plus, trendmicro Total Protection, trendmicro Internet Security, trendmicro Support, trendmicro Help, trendmicro Customer Service, trendmicro Customer Support, trendmicro LiveSafe Support, trendmicro Antivirus Plus Support, trendmicro Total Protection Support, trendmicro Tech Support, trendmicro Technical Support, trendmicro Chat Support, trendmicro Live Chat, trendmicro Live Chat Support, trendmicro Online Help, trendmicro Online Support, trendmicro Live Support, trendmicro Live Help, Contact trendmicro, Call trendmicro, trendmicro Helpline, trendmicro Help Desk, trendmicro Hotline, trendmicro Number, trendmicro Phone Number, trendmicro Support Website">
+ <title>Online Expert Support For Trend Micro</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />
 <script type="text/javascript" src="js/jquery.js"></script>

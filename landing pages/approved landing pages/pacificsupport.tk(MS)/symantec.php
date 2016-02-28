@@ -5,8 +5,9 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta name="description" content="Get online technical support and help for symantec issues and errors by certified technicians." />
-<title>Online Expert Support For Symantec</title>
+ <meta name="description" content="Live Tech Support, Chat Support & Customer Service for symantec LiveSafe, symantec Antivirus & symantec Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="symantec, symantec LiveSafe, symantec Antivirus Plus, symantec Total Protection, symantec Internet Security, symantec Support, symantec Help, symantec Customer Service, symantec Customer Support, symantec LiveSafe Support, symantec Antivirus Plus Support, symantec Total Protection Support, symantec Tech Support, symantec Technical Support, symantec Chat Support, symantec Live Chat, symantec Live Chat Support, symantec Online Help, symantec Online Support, symantec Live Support, symantec Live Help, Contact symantec, Call symantec, symantec Helpline, symantec Help Desk, symantec Hotline, symantec Number, symantec Phone Number, symantec Support Website">
+ <title>Online Expert Support For Symantec</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />
 <script type="text/javascript" src="js/jquery.js"></script>

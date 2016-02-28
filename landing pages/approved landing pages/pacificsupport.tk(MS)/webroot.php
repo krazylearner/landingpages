@@ -5,8 +5,9 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta name="description" content="Get online technical support and help for webroot issues and errors by certified technicians." />
-<title>Online Expert Support For Webroot</title>
+ <meta name="description" content="Live Tech Support, Chat Support & Customer Service for webroot LiveSafe, webroot Antivirus & webroot Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="webroot, webroot LiveSafe, webroot Antivirus Plus, webroot Total Protection, webroot Internet Security, webroot Support, webroot Help, webroot Customer Service, webroot Customer Support, webroot LiveSafe Support, webroot Antivirus Plus Support, webroot Total Protection Support, webroot Tech Support, webroot Technical Support, webroot Chat Support, webroot Live Chat, webroot Live Chat Support, webroot Online Help, webroot Online Support, webroot Live Support, webroot Live Help, Contact webroot, Call webroot, webroot Helpline, webroot Help Desk, webroot Hotline, webroot Number, webroot Phone Number, webroot Support Website">
+ <title>Online Expert Support For Webroot</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />
 <script type="text/javascript" src="js/jquery.js"></script>

@@ -5,7 +5,8 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta name="description" content="Get online technical support and help for mcafee issues and errors by certified technicians." />
+<meta name="description" content="Live Tech Support, Chat Support & Customer Service for McAfee LiveSafe, McAfee Antivirus & McAfee Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="McAfee, McAfee LiveSafe, McAfee Antivirus Plus, McAfee Total Protection, McAfee Internet Security, McAfee Support, McAfee Help, McAfee Customer Service, McAfee Customer Support, McAfee LiveSafe Support, McAfee Antivirus Plus Support, McAfee Total Protection Support, McAfee Tech Support, McAfee Technical Support, McAfee Chat Support, McAfee Live Chat, McAfee Live Chat Support, McAfee Online Help, McAfee Online Support, McAfee Live Support, McAfee Live Help, Contact McAfee, Call McAfee, McAfee Helpline, McAfee Help Desk, McAfee Hotline, McAfee Number, McAfee Phone Number, McAfee Support Website">
 <title>Online Expert Support For Mcafee</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />

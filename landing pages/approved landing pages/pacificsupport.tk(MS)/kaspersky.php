@@ -5,8 +5,9 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta name="description" content="Get online technical support and help for kaspersky issues and errors by certified technicians." />
-<title>Online Expert Support For Kaspersky</title>
+ <meta name="description" content="Live Tech Support, Chat Support & Customer Service for kaspersky LiveSafe, kaspersky Antivirus & kaspersky Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="kaspersky, kaspersky LiveSafe, kaspersky Antivirus Plus, kaspersky Total Protection, kaspersky Internet Security, kaspersky Support, kaspersky Help, kaspersky Customer Service, kaspersky Customer Support, kaspersky LiveSafe Support, kaspersky Antivirus Plus Support, kaspersky Total Protection Support, kaspersky Tech Support, kaspersky Technical Support, kaspersky Chat Support, kaspersky Live Chat, kaspersky Live Chat Support, kaspersky Online Help, kaspersky Online Support, kaspersky Live Support, kaspersky Live Help, Contact kaspersky, Call kaspersky, kaspersky Helpline, kaspersky Help Desk, kaspersky Hotline, kaspersky Number, kaspersky Phone Number, kaspersky Support Website">
+ <title>Online Expert Support For Kaspersky</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />
 <script type="text/javascript" src="js/jquery.js"></script>

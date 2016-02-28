@@ -5,7 +5,8 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
- <meta name="description" content="Get online technical support and help for avast issues and errors by certified technicians." />
+<meta name="description" content="Live Tech Support, Chat Support & Customer Service for avast LiveSafe, avast Antivirus & avast Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="avast, avast LiveSafe, avast Antivirus Plus, avast Total Protection, avast Internet Security, avast Support, avast Help, avast Customer Service, avast Customer Support, avast LiveSafe Support, avast Antivirus Plus Support, avast Total Protection Support, avast Tech Support, avast Technical Support, avast Chat Support, avast Live Chat, avast Live Chat Support, avast Online Help, avast Online Support, avast Live Support, avast Live Help, Contact avast, Call avast, avast Helpline, avast Help Desk, avast Hotline, avast Number, avast Phone Number, avast Support Website">
 <title>Online Expert Support  For Avast</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />
