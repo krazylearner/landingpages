@@ -151,7 +151,7 @@
      <!-- Put your photo link in the src attribute -->
       <img src="./img/Antivirus.jpg" width="1500" height="550" alt="">
       <br>
-      <div>Disclaimer: antivirusgeeks.tk is an independent third party service provider for several brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</div>
+      <div>Disclaimer: binarysolutionshub.com is an independent third party service provider for several brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</div>
     </div>
     
    
@@ -164,7 +164,7 @@
        <!-- About items -->
       <div id="about">
         <div id="heading">
-          <h1>Support For Antivirus Call 1-832-534-3228</h1>
+          <h1>Support For Antivirus Call 1-844-441-3440</h1>
           <table class="features-table">
   <thead>
     <tr>

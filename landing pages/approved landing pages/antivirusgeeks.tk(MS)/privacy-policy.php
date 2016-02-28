@@ -75,7 +75,7 @@
         <div id="heading">
           <h1>Privacy Policy</h1>
           <p>
-This privacy policy discloses the practices for antivirusgeeks.tk ("Embark Solution") to protect privacy for users of its Service.
+This privacy policy discloses the practices for binarysolutionshub.com ("Embark Solution") to protect privacy for users of its Service.
 
 From herein, the “Service” is defined as the user support services owned and operated by Embark Solution. Submitting your information on our website constitutes acceptance of this privacy Policy.
 <br>

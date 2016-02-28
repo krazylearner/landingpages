@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <title>Online Expert Support For kaspersky</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="Live Tech Support, Chat Support & Customer Service for kaspersky LiveSafe, kaspersky Antivirus & kaspersky Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="kaspersky, kaspersky LiveSafe, kaspersky Antivirus Plus, kaspersky Total Protection, kaspersky Internet Security, kaspersky Support, kaspersky Help, kaspersky Customer Service, kaspersky Customer Support, kaspersky LiveSafe Support, kaspersky Antivirus Plus Support, kaspersky Total Protection Support, kaspersky Tech Support, kaspersky Technical Support, kaspersky Chat Support, kaspersky Live Chat, kaspersky Live Chat Support, kaspersky Online Help, kaspersky Online Support, kaspersky Live Support, kaspersky Live Help, Contact kaspersky, Call kaspersky, kaspersky Helpline, kaspersky Help Desk, kaspersky Hotline, kaspersky Number, kaspersky Phone Number, kaspersky Support Website">
     <meta name="author" content="">
 
     <!-- Le styles -->
@@ -66,7 +67,7 @@
      <!-- Put your photo link in the src attribute -->
       <img src="./img/Kaspersky.jpg" width="1500" height="550" alt="">
       <br>
-      <div>Disclaimer: antivirusgeeks.tk is an independent third party service provider for several brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</div>
+      <div>Disclaimer: binarysolutionshub.com is an independent third party service provider for several brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</div>
     </div>
     
    
@@ -79,7 +80,7 @@
        <!-- About items -->
       <div id="about">
         <div id="heading">
-          <h1>Support For kaspersky Call 1-832-534-3228</h1>
+          <h1>Support For kaspersky Call 1-844-441-3440</h1>
           <p class="lead"> We provides technical support services for all types of issues related to kaspersky updates,kaspersky installation,kaspersky virus definations,virus removal,kaspersky errors ,kaspersky general issues ,kaspersky virus defination updates,kaspersky renewal problems etc . </p>
            
         </div>
@@ -92,7 +93,7 @@
           <div class="span8">
             <p class="lead">Our support services will assure your computer issues are fixed securely and real time.Our certified technician will effectively resolve issues related to installation or uninstallation of programs, upgrade, PC optimization, computer performance and many more. </p>
             
-            <p class="lead">antivirusgeeks.tk delivers technology support services to home PC users and Business across USA, UK, CA and AU.Our service provides instant and suitable solutions for all your computer related problems in minimum possible time.</p> 
+            <p class="lead">binarysolutionshub.com delivers technology support services to home PC users and Business across USA, UK, CA and AU.Our service provides instant and suitable solutions for all your computer related problems in minimum possible time.</p> 
           </div>
         </div>
         <div class="row">

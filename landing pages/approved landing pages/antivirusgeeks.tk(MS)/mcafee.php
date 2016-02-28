@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <title>Online Expert Support For mcafee</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+   <meta name="description" content="Live Tech Support, Chat Support & Customer Service for McAfee LiveSafe, McAfee Antivirus & McAfee Total Protection. Get Live Chat Help & Tech Support.">
+<meta name="keywords" content="McAfee, McAfee LiveSafe, McAfee Antivirus Plus, McAfee Total Protection, McAfee Internet Security, McAfee Support, McAfee Help, McAfee Customer Service, McAfee Customer Support, McAfee LiveSafe Support, McAfee Antivirus Plus Support, McAfee Total Protection Support, McAfee Tech Support, McAfee Technical Support, McAfee Chat Support, McAfee Live Chat, McAfee Live Chat Support, McAfee Online Help, McAfee Online Support, McAfee Live Support, McAfee Live Help, Contact McAfee, Call McAfee, McAfee Helpline, McAfee Help Desk, McAfee Hotline, McAfee Number, McAfee Phone Number, McAfee Support Website">
     <meta name="author" content="">
 
     <!-- Le styles -->
@@ -66,7 +67,7 @@
      <!-- Put your photo link in the src attribute -->
       <img src="./img/Mcafee.jpg" width="1500" height="550" alt="">
       <br>
-      <div>Disclaimer: antivirusgeeks.tk is an independent third party service provider for several brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</div>
+      <div>Disclaimer: binarysolutionshub.com is an independent third party service provider for several brands. The service we offer is also available on the website of the brand owner. The services can be offered even if the product is on warranty or not. Use of names, trademarks is for reference only. We disclaim any ownership, right, affiliation or endorsement of or by any such third party products or brands.</div>
     </div>
     
    
@@ -79,7 +80,7 @@
        <!-- About items -->
       <div id="about">
         <div id="heading">
-          <h1>Support For mcafee Call 1-832-534-3228</h1>
+          <h1>Support For mcafee Call 1-844-441-3440</h1>
           <p class="lead"> We provides technical support services for all types of issues related to mcafee updates,mcafee installation,mcafee virus definations,virus removal,mcafee errors ,mcafee general issues ,mcafee virus defination updates,mcafee renewal problems etc . </p>
            
         </div>
@@ -92,7 +93,7 @@
           <div class="span8">
             <p class="lead">Our support services will assure your computer issues are fixed securely and real time.Our certified technician will effectively resolve issues related to installation or uninstallation of programs, upgrade, PC optimization, computer performance and many more. </p>
             
-            <p class="lead">antivirusgeeks.tk delivers technology support services to home PC users and Business across USA, UK, CA and AU.Our service provides instant and suitable solutions for all your computer related problems in minimum possible time.</p> 
+            <p class="lead">binarysolutionshub.com delivers technology support services to home PC users and Business across USA, UK, CA and AU.Our service provides instant and suitable solutions for all your computer related problems in minimum possible time.</p> 
           </div>
         </div>
         <div class="row">
