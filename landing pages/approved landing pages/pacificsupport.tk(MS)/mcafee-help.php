@@ -5,9 +5,9 @@
 <!-- Mirrored from Comptek Solution .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 24 Sep 2015 09:41:36 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="Live Tech Support, Chat Support & Customer Service for avira LiveSafe, avira Antivirus & avira Total Protection. Get Live Chat Help & Tech Support.">
-<meta name="keywords" content="avira, avira LiveSafe, avira Antivirus Plus, avira Total Protection, avira Internet Security, avira Support, avira Help, avira Customer Service, avira Customer Support, avira LiveSafe Support, avira Antivirus Plus Support, avira Total Protection Support, avira Tech Support, avira Technical Support, avira Chat Support, avira Live Chat, avira Live Chat Support, avira Online Help, avira Online Support, avira Live Support, avira Live Help, Contact avira, Call avira, avira Helpline, avira Help Desk, avira Hotline, avira Number, avira Phone Number, avira Support Website">
-<title>Online Expert Support For Avira</title>
+<meta name="description" content="Live Tech help, Chat help & Customer Service for McAfee LiveSafe, McAfee Antivirus & McAfee Total Protection. Get Live Chat Help & Tech help.">
+<meta name="keywords" content="McAfee, McAfee LiveSafe, McAfee Antivirus Plus, McAfee Total Protection, McAfee Internet Security, McAfee help, McAfee Help, McAfee Customer Service, McAfee Customer help, McAfee LiveSafe help, McAfee Antivirus Plus help, McAfee Total Protection help, McAfee Tech help, McAfee Technical help, McAfee Chat help, McAfee Live Chat, McAfee Live Chat help, McAfee Online Help, McAfee Online help, McAfee Live help, McAfee Live Help, Contact McAfee, Call McAfee, McAfee Helpline, McAfee Help Desk, McAfee Hotline, McAfee Number, McAfee Phone Number, McAfee help Website">
+<title>Online Expert help For Mcafee</title>
 <link type="text/css" rel="stylesheet" href="css/main.css" media="screen"/>
 <link rel="stylesheet" href="menu.css" type="text/css" media="screen" />
 <script type="text/javascript" src="js/jquery.js"></script>
@@ -46,16 +46,15 @@ function newPopup(url) {
 
 <div class="nav_cntr_outer float_L" style="width:600px;">
       <ul id="nav">
-        <li><a href="avira.php">Home</a></li>
-        
-        <li><a href="about_us.php" title="About Us">About us </a></li>
-       <li><a href="#" title="services">Services</a>
+        <li><a href="mcafee.php">Home</a></li>
+<li><a href="about_us.php" title="About Us">About us </a></li>
+        <li><a href="#" title="services">Services</a>
           <ul>   
-            <li><a>Support For Antivirus</a></li>
-            <li><a>Support For PC</a></li>
-            <li><a>Support For Browsers</a></li>
-            <li><a>Support For Printers</a></li>
-            <li><a>Support For Virus Definations</a></li>
+            <li><a>help For Antivirus</a></li>
+            <li><a>help For PC</a></li>
+            <li><a>help For Browsers</a></li>
+            <li><a>help For Printers</a></li>
+            <li><a>help For Virus Definations</a></li>
           </ul>
         </li>
         <li><a href="client_testimonial.php" title="Testimonials">Clients testimonial</a></li>
@@ -70,7 +69,7 @@ function newPopup(url) {
 <div class="wrapper">
 <div class="tfnBox" id="tfnaction">
         <div class="centerCntr">
-             <strong>Support For Avira Call </strong>
+             <strong>Help For Mcafee Call </strong>
         <span class="tfn_text">1-844-441-3440</span></div>
 </div>
   <div class="banner_cntr float_L">
@@ -79,7 +78,7 @@ function newPopup(url) {
       <div class="container">
         
         <div class="content">
-          <div><img src="pics/Avira.jpg"  alt="Comptek Solution" /></div>
+          <div><img src="pics/Mcafee.jpg"  alt="Comptek Solution" /></div>
         </div>
       </div>
     </div>
@@ -95,9 +94,9 @@ function newPopup(url) {
     
        
   <div class="banner_btm_cntr">
-    <div class="ask_a_ques_cntr" style="float:left; min-width:180px; padding-left:0px;"> <img src="pics/24-icon.png" alt="Live Tech Support"  class="float_L"/>
+    <div class="ask_a_ques_cntr" style="float:left; min-width:180px; padding-left:0px;"> <img src="pics/24-icon.png" alt="Live Tech Help"  class="float_L"/>
       <h3><a href="#">Live Tech<br />
-        Support</a></h3>
+        Help</a></h3>
     </div>
     <img src="pics/24_border.png" alt="border"  class="bordr" style="float:left;"/>
     <div class="ask_a_ques_cntr" style="float:left; padding:px"> <img src="pics/toll_Free.png" alt="Toll Free Number"  class="float_L"/>
@@ -119,22 +118,22 @@ function newPopup(url) {
     <div class="Page_Left_MainContr">
       <div class="Who_We_Are_MainContr">
         <h3 class="heading">Welcome to Comptek Solution</h3>
-        <p>Comptek Solution is a leading online tech-support company which delivers short term as well long term computer support and assistance. We provides technical support services for all types of issues related to <a href="https://en.wikipedia.org/wiki/Antivirus_software">antivirus</a> updates,antivirus installation,antivirus virus definations,virus removal,Avira errors ,Avira general issues ,Avira virus defination updates,Avira renewal problems etc . 
+        <p>Comptek Solution is a leading online tech-support company which delivers short term as well long term computer Help and assistance. We provides technical Help services for all types of issues related to <a href="https://en.wikipedia.org/wiki/Antivirus_software">antivirus</a> updates,antivirus installation,antivirus virus definations,virus removal,Mcafee errors ,Mcafee general issues ,Mcafee virus defination updates,Mcafee renewal problems etc . 
           <br />
           We will fix any issue with your computer at your desired time, making sure all your data is safe and secure, you do not need to go anywhere, we will diagnose the issue and fix your computer on secured network saving you time and money. </p>
           <br><br>
-          <h2>Our Help and Support services for Avira® Antivirus includes:</h2>
+          <h2>Our Help and Support services for Mcafee® Antivirus includes:</h2>
           <br>
      
        
-    <p>Setup & install Avira antivirus in your computer</p>
-    <p>Update or upgrade Avira Product to latest version</p>
-    <p>Uninstall or remove Avira Product from your PC</p>
+    <p>Setup & install Mcafee antivirus in your computer</p>
+    <p>Update or upgrade Mcafee Product to latest version</p>
+    <p>Uninstall or remove Mcafee Product from your PC</p>
     <p>Scan your computer for viruses and other Malwares</p>
-    <p>Neutralize or fix the threats detected by Avira Antivirus</p>
+    <p>Neutralize or fix the threats detected by Mcafee Antivirus</p>
     <p>Tune up your computer so that it runs at its optimal speed</p>
-    <p>Configure Avira settings for better security and protection of your PC</p>
-    <p>Customize Avira antivirus setting as per your requirements</p>
+    <p>Configure Mcafee settings for better security and protection of your PC</p>
+    <p>Customize Mcafee antivirus setting as per your requirements</p>
     
       <br>
         <a href="about_us.php" class="readmore"><img src="pics/view_more.png" alt="view more"  /></a> </div>
@@ -145,14 +144,14 @@ function newPopup(url) {
       <div class="Our_Services_Maincontr">
         <div class="Our_Services_ImgContr"><img src="pics/1.png" alt="services" /></div>
         <div class="Our_services_COntnt_Contr">
-          <h4>Support for PC</h4>
-          <p>Our Support certified Techs use different tools to ensure optimal pc performance</p>
+          <h4>Help for PC</h4>
+          <p>Our Help certified Techs use different tools to ensure optimal pc performance</p>
           <a href="#"><img src="pics/readmore.png" alt="readmore"   height="9" width="74"/></a> </div>
       </div>
       <div class="Our_Services_Maincontr">
         <div class="Our_Services_ImgContr"><img src="pics/1.png" alt="services" /></div>
         <div class="Our_services_COntnt_Contr">
-          <h4>Antivirus Support</h4>
+          <h4>Antivirus Help</h4>
           <p>Security is an important issue nowadays whether it is online or offline world. If you don’t want to put your security at stake,</p>
           <a href="#"><img src="pics/readmore.png" alt="readmore"   height="9" width="74"/></a> </div>
       </div>
@@ -166,8 +165,8 @@ function newPopup(url) {
       <div class="Our_Services_Maincontr">
         <div class="Our_Services_ImgContr"><img src="pics/1.png" alt="services" /></div>
         <div class="Our_services_COntnt_Contr">
-          <h4>Unlimited Support</h4>
-          <p>Unlimited support all year long with dedicated on call certified tech support experts. </p>
+          <h4>Unlimited Help</h4>
+          <p>Unlimited Help all year long with dedicated on call certified tech support experts. </p>
           <a href="#"><img src="pics/readmore.png" alt="readmore"   height="9" width="74"/></a> </div>
       </div>
       <div class="Our_Services_Maincontr">
@@ -200,10 +199,10 @@ function newPopup(url) {
       </div>
        <div class="float_L pc_solution_Cntr"> <span class="Quick_resolution">We Support</span>
         <ul class="quick_ul_li_cntr">
-         <li> <a href="#">Support For Antivirus</a></li>
-          <li><a href="#">Support For Antivirus Update </a></li>
-          <li><a href="#">Laptop Software Support</a></li>
-           <li><a href="#">Support For Printer</a></li>
+         <li> <a href="#">Help For Antivirus</a></li>
+          <li><a href="#">Help For Antivirus Update </a></li>
+          <li><a href="#">Laptop Software Help</a></li>
+           <li><a href="#">Help For Printer</a></li>
            <li><a href="#">Data Recovery</a></li>
         </ul>
       </div>
@@ -213,8 +212,8 @@ function newPopup(url) {
          
          
           <li><a href="#">Printers Driver Update</a></li>
-          <li><a href="#">Browser Support</a></li>
-          <li><a href="#">Operating System Support</a></li>
+          <li><a href="#">Browser Help</a></li>
+          <li><a href="#">Operating System Help</a></li>
           <li><a href="#">PC Tune Up </a></li>
           <li><a href="#">PC Optimization</a></li>
           
@@ -288,7 +287,7 @@ s0.parentNode.insertBefore(s1,s0);
 <!--End of Tawk.to Script-->
 <!--End of Tawk.to Script-->
  </div>
- 
+
  <script>
 (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5128796"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
 <noscript><img src="//bat.bing.com/action/0?ti=5128796&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
