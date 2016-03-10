@@ -2,17 +2,16 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Norton SECURITY PREMIUM</title>
+	<title>Norton SECURITY DELUXE</title>
 	<link rel="stylesheet" type="text/css" href="app/vendors/bootstrap/css/bootstrap.min.css"/>
 	<link rel="stylesheet" type="text/css" href="app/css/main.css"/>
+	<script type="text/javascript" src="app/vendors/jquery/jquery.js"></script>
 	<script type="text/javascript" src="app/vendors/bootstrap/js/bootstrap.min.js"></script>	
 	<link rel="icon" type="image/png" href="app/images/Favicon.png">
 	
 </head>
 <body>
-	<!-- Main header -->
 	<div id="menu">
-		
 		<div class="row">
 	<div class="col-md-6 col-sm-12"> 
 		<a href="index.html">
@@ -32,34 +31,36 @@
 		</div>
 	</div>
 </div>
+
 	</div>
+	<br>
 	<div class="row" style="background-color:#e6e7e8;">
 		<div style="width:100%;margin:auto;">
 			<div class="col-xs-1"></div>
 			<div class="col-xs-3"> 
-				<img src="app/images/box-lg-nsp.png" class="main-product-image">
+				<img src="app/images/box-lg-nsd.png" class="main-product-image">
 			</div>
 			<div class="col-xs-4"> 
 				<div class="main-product-text">
-					<span class="main-header">Norton Security Premium</span><br>
+					<span class="main-header">Norton Security Deluxe</span><br>
 					<div class="main-product-subtext">
-						Our best protection, plus PC backup and family safety, for you and the people you care about.<br>
+						Trusted anti-virus and identity management for every device* you own.<br><br>
 					</div>
 					<br>
-					<span class="header-old-price">$89.99</span><br>
-					<span class="header-price">$59.99 </span><br>
-					<a class="button button2" style="width:130px !important;" href="click/h" rel="nofollow">
+					<span class="header-old-price">$79.99</span><br>
+					<span class="header-price">$49.99 </span><br>
+					<a class="button button2" style="width:130px !important;" href="click/m" rel="nofollow">
 	 					Buy Now
 					</a>
 				</div>
 			</div>
-			<div class="col-xs-4" style="height:300px; margin-left: -50px;">
-				<div style="margin-top:30px;">
+			<div class="col-xs-4" style="height:300px;margin-left: -50px;">
+				<div style="margin-top:30px; ">
 					<img src="app/images/Satisfaction-Guarantee.png" style="display:block;margin:10px auto;width:16%;">
 					<div style="font-weight:bold;text-align:center;font-size:16px;">Buy with Confidence</div>
 					<ul style="position:relative;left:35%;">
 						<li>Genuine Norton Products</li>
-						<li>Real Time Virus Protection</li>
+						<li>Free Real Time Virus Protection</li>
 						<li>Norton SECURE Cart</li>
 					</ul>
 					<br>
@@ -86,11 +87,11 @@
 
 				  	<!-- Tab panes -->
 					<div class="tab-content">
-					    <div role="tabpanel" class="tab-pane active" id="features">
+					       <div role="tabpanel" class="tab-pane active" id="features">
 				    		<div class="row">
 				    			<div class="col-xs-8">
 				    				<span class="product-header">
-				    					Norton Security Premium
+				    					Norton Security Deluxe
 				    				</span>
 				    				<br>
 				    				Benefits for you and your family:
@@ -104,7 +105,7 @@
 				    			</div>
 				    			<div class="col-xs-10" style="margin-left: -15px;">
 					    			<br><b>Award Winning Protection</b><br>
-					    			Protects up to 10 PCs, Macs, Androids and iOS devices with a single subscription.Safeguards your identity and online transactions.Protects better and faster than the competition
+					    			Protects up to 5 PCs, Macs, Androids and iOS devices with a single subscription.Safeguards your identity and online transactions.Protects better and faster than the competition
 				    			</div>
 				    		</div>
 				    		<div class="row">
@@ -114,7 +115,7 @@
 				    			<br>
 				    			<div class="col-xs-10" style="margin-left: -15px;">
 				    				<b>Parental Controls</b><br>
-				    				Provides tools to help your kids safely explore the Internet<sup>1</sup>.
+				    				Alerts you about risky Android apps before you download them, with our award-winning technology.<sup>1</sup>.
 				    			</div>
 				    		</div>
 				    		<div class="row">
@@ -132,21 +133,14 @@
 					    	<div class="row">
 				    			<div class="col-xs-8">
 				    				<ul class="system-requirements">
-					    		
-
-<li>Microsoft Windows XP (all 32-bit versions) with Service Pack 3 (SP 3) or later</li>
+					    				<li>Microsoft Windows XP (all 32-bit versions) with Service Pack 3 (SP 3) or later</li>
 <li>Microsoft Windows Vista (all versions) with Service Pack 1 (SP 1) or later</li>
 <li>Microsoft Windows 7 (all versions) with Service Pack 1 (SP 1) or later</li>
 <li>Microsoft Windows 8/8.1 (all versions). Some protection features are not available in Windows 8 Start screen browsers.</li>
 <li>Microsoft Windows 10 (all versions). Edge browser not supported.</li>
-<li>Current and previous two versions of Mac OS X. Password Management feature not supported.Norton Family and Norton Family Premier features not supported.</li>
-
+<li>Current and previous two versions of Mac OS X. Password Management feature not supported.</li>
 <li>Android 2.3 or later. Must have Google Play app installed.</li>
-<li>Android 4 or later required for Norton Family Premier Android app</li>
-
-
 <li>iOS 7 or later</li>
-<li>iOS 8 or later required for Norton Family Premier child monitoring app</li>
 
 									</ul>
 									
@@ -233,7 +227,6 @@
 				</div>
 			</div>
 			<div class="col-xs-2"></div>
-
 		</div> -->
 		<script>
 	function ExpandCollapse()
@@ -287,7 +280,5 @@
 		</ul>
 	</div>
 </div></div>
-<script>
-(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5128796"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5128796&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
-</body>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5128796"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5128796&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript></body>
 </html>

@@ -3,10 +3,11 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Top virus protection </title>
+	<title>Top Antivirus Protection </title>
 	<meta name="google-site-verification" content="coORO3I-QvwrHyk1zu3WtRymr4mKVd7-8NpXgmndZ3s" /> 
 	<link rel="stylesheet" type="text/css" href="app/vendors/bootstrap/css/bootstrap.min.css"/>
 	<link rel="stylesheet" type="text/css" href="app/css/main.css"/>
+	<script type="text/javascript" src="app/vendors/jquery/jquery.js"></script>
 	<script type="text/javascript" src="app/vendors/bootstrap/js/bootstrap.min.js"></script>	
 	<script type="text/javascripain.js"></script>
 	<link rel="icon" type="image/png" href="app/images/Favicon.png">
@@ -42,8 +43,8 @@
 				<div class="col-md-7 col-xs-12 header-content" style="height:400px !important;padding:0px 20px;">
 					<div class="row">
 						<div class="col-xs-12" style="margin-top:30px;margin-left:35px;">
-							<div class="hero-header light-font">Great deals on Norton Softwares</div>
-							<div class="hero-subtext">Best anti-virus and privacy protection for all your devices<sup>*</sup></div>
+							<div class="hero-header light-font">Great deals on Norton Antivirus Protection</div>
+							<div class="hero-subtext">Best antivirus protection for all your devices<sup>*</sup></div>
 						</div>
 					</div>
 					<div class="col-xs-4" style="margin-top:30px;">
@@ -60,7 +61,7 @@
 						<div class="bold-font">Buy with Confidence</div>
 						<ul style="padding:0px 0px 0px 30px;text-align:left;font-size:11px;line-height:1.5em;margin-left:16px;">
 							<li>Genuine Norton Products</li>
-							<li>Real Time Virus Protection</li>
+							<li>Real Time Antivirus Protection</li>
 							<li>Norton SECURE site</li>
 						</ul>
 						<img style="width:90%;display:block;margin:15px auto;" src="./images.mcafee.com/OfferTool/SnMLP/96012/Windows_iOS.png">
@@ -170,7 +171,7 @@
 						</tr>
 						<tr>
 							<td>
-								Defends against viruses, spyware, malware and other online threats
+								Defends against viruses, spyware, malware and other online threats.
 							</td>
 							<td><div class="blue-circle"></div></td>
 							<td><div class="blue-circle"></div></td>
@@ -186,7 +187,7 @@
 						</tr>
 						<tr>
 							<td>
-								Protects better and faster than the competition<sup>1</sup>
+								Antivirus Protection  which protects better and faster than the competition<sup>1</sup>
 							</td>
 							<td><div class="blue-circle"></div></td>
 							<td><div class="blue-circle"></div></td>
@@ -251,7 +252,7 @@
 								<b style="float:left;margin-left:50px;margin-top:-20px;">Buy with Confidence</b><br><br>
 								<ul style="text-align:left;margin-left:30px;margin-top:-20px;font-size:15px;">
 									<li>Genuine Norton Products</li>
-									<li>Real Time Virus Protection</li>
+									<li>Real Time Antivirus Protection</li>
 									<li>Norton SECURE Cart</li>
 								</ul>
 								<img style="width:30%;display:block;margin:15px 20px 15px 50px;" src="./images.mcafee.com/OfferTool/SnMLP/96012/Windows_iOS.png">
