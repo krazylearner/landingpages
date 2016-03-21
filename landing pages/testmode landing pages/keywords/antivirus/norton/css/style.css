@@ -1,0 +1,27 @@
+# Empty CSS file for your own CSS
+# Empty CSS file for your own CSS
+p.compare-features {font:bold 20px Arial; margin:40px 0 10px 0;}
+		div.compare-features {width: 100%; border:10px solid #DBDBDB; background:#FFFFFF;}
+		.compare-table-right {border-right:1px solid #D9D9D9; padding:10px;}
+		.compare-table-right2 {border-right:1px solid #D9D9D9; padding:10px 0; text-align:center;}
+		.compare-table-right3 {padding:10px 0; text-align:center;}
+
+		.compare-features-table-feature {font:bold 18px Arial; width:300px; padding:10px 15px; border-bottom:1px solid #D9D9D9; border-right:1px solid #D9D9D9;}
+		.compare-features-table-names {padding:15px 10px; text-align:center; color:#CC0033; font:bold 14px Arial; border-bottom:1px solid #D9D9D9; border-right:1px solid #D9D9D9;}
+		.compare-features-table-features {
+			font:14px Arial;
+			color:#0072BC; 
+			padding:10px 15px; 
+			border-bottom:1px solid #D9D9D9; 
+			border-right:1px solid #D9D9D9;
+			width: 70%;
+		}
+		.compare-features-td {padding:10px; border-bottom:1px solid #D9D9D9; border-right:1px solid #D9D9D9; font-size:12px; text-align:center;}
+		
+		.checkmark {background:url(images/checkmark.png) no-repeat; width:28px; height:28px; margin:auto;}
+		.row2 td {background:#F1F1F1;}
+		.name2 {margin:6px 0 8px 0; text-align:center; font:bold 14px Arial; color:#333333;}
+		.msrp2 {color:#999999; font-size:14px; text-decoration:line-through;}
+		.save2 {font:bold 14px Arial; color:#333333;}
+		.price2 {color:#339900; font:bold 22px Arial;}
+		.asterisk2 {color:#999999; font:bold 14px Sans Serif; vertical-align:top;}
